@@ -1,5 +1,4 @@
 %define		pearname	Git
-%include	/usr/lib/rpm/macros.php
 Summary:	Simple wrapper for Git
 Name:		php-phpunit-Git
 Version:	1.2.0
